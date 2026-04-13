@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.my_p {
+  background-color: rgb(255, 126, 126);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font_size {
+  font-size: 24px;
+}
+
+#one_id {
+  color: blue;
+  font-size: 36px;
+}
+
+#another_id {
+  background-color: rgb(129, 236, 129);
+  font-weight: bold;
+}
